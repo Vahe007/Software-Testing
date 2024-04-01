@@ -1,5 +1,3 @@
-package org.example;
-
 public class Rectangle {
     private final double width;
     private final double height;
